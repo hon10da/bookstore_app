@@ -28,18 +28,18 @@ This app allows you to **add**, **buy**, **remove**, and **list** different type
 ## 🖼️ Screenshots
 
 ### 📋 Main Menu  
-![Main Menu]("screenshots/Screenshot menu.png")
+![Main Menu](screenshots/Screenshot menu.png)
 
 ---
 
 ### ➕ Adding a Book  
-![Add Book]("screenshots/Screenshot add_book.png")
+![Add Book](screenshots/Screenshot add_book.png)
 
 
 ---
 
 ### 📚 All Books  
-![All Books]("screenshots/Screenshot all_books.png")
+![All Books](screenshots/Screenshot all_books.png)
 
 ---
 
